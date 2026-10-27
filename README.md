@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-¡Hola! 👋 Soy Serianny Moreno, aprendiz de Tecnología en Análisis y Desarrollo de Software del SENA, actualmente en séptimo trimestre. Me enfoco en el desarrollo backend, las bases de datos y la arquitectura de software. Me apasiona escribir código limpio, diseñar soluciones escalables y construir proyectos tecnológicos innovadores.
+¡Hola! 👋 Soy Serianny Moreno, desarrolladora de software enfocada en el backend, las bases de datos y la arquitectura de software. Me apasiona escribir código limpio, diseñar soluciones escalables y desarrollar proyectos tecnológicos innovadores.
 
 * **Me interesa el desarrollo backend, la gestión de bases de datos, la arquitectura de software y el liderazgo técnico.**
 - 🌱 Actualmente estoy aprendiendo y trabajando con...
